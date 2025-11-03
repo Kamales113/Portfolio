@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar",
+      "description": "A placeholder avatar for Kamales M.",
+      "imageUrl": "https://images.unsplash.com/photo-1585745074138-dde76e5564fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzaWxob3VldHRlJTIwYXZhdGFyfGVufDB8fHx8MTc2MjExMDUzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "silhouette avatar"
+    },
+    {
+      "id": "project-helmet",
+      "description": "Image of traffic with focus on motorcycles for helmet detection.",
+      "imageUrl": "https://images.unsplash.com/photo-1576573166954-346dc46783c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0cmFmZmljJTIwbW90b3JjeWNsZXxlbnwwfHx8fDE3NjIxMjQ2Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "traffic motorcycle"
+    },
+    {
+      "id": "project-meeting",
+      "description": "Image of a modern meeting room.",
+      "imageUrl": "https://images.unsplash.com/photo-1517502884422-41eaead166d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtZWV0aW5nJTIwcm9vbXxlbnwwfHx8fDE3NjIwMjc2NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "meeting room"
+    },
+    {
+      "id": "project-travel",
+      "description": "Image representing travel and destinations.",
+      "imageUrl": "https://images.unsplash.com/photo-1619417889956-c701044fed86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0cmF2ZWwlMjBkZXN0aW5hdGlvbnxlbnwwfHx8fDE3NjIwNTI2MTB8MA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "travel destination"
+    },
+    {
+      "id": "project-student",
+      "description": "Image of a student looking at a report card or grades.",
+      "imageUrl": "https://images.unsplash.com/photo-1521791055366-0d553872125f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwcmVwb3J0fGVufDB8fHx8MTc2MjEyNDYzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student report"
+    }
+  ]
+}
